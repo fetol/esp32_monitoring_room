@@ -1,0 +1,36 @@
+{
+  "name": "vue-first-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "bulma": "^0.9.3",
+    "bulma-slider": "^2.0.4",
+    "chart.js": "^2.9.4",
+    "core-js": "^3.6.5",
+    "downloadjs": "^1.4.7",
+    "vue": "^3.0.0",
+    "vue-chartjs": "^3.5.1",
+    "vue-chartkick": "^1.1.0",
+    "vue-router": "^4.0.12",
+    "vue-spinner": "^1.0.4",
+    "vue3-slider": "^1.6.8",
+    "vuesax": "^3.12.2",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0-0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^7.0.0-0"
+  }
+}
