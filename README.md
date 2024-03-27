@@ -2,5 +2,5 @@
 Maturitný projekt - IoT ovládanie a monitorovanie miestnosti
 
 # vue.app
-npm i
+npm i\n
 npm run dev
