@@ -12,5 +12,5 @@ npm install
 
 npm run dev (for development server, prints out localhost address of the server)
 
-# cloud functions
+# firebase cloud functions
 npm install
