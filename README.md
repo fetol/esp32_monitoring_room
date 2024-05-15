@@ -6,7 +6,7 @@ Authors: Michal Bilka, Tomáš Bordák, Dominik Dielessen
 2021-2022 SPŠE Ul. Karola Adlera č. 5, 841 02 Bratislava (www.adlerka.sk)
 
 Keywords:
-Vue.js 3, C, ESP32, Node.js, Firebase, WEB3 blockchain domain, Pinata
+Vue.js 3, HTML, CSS, C, ESP32, Node.js, Firebase, WEB3 blockchain domain, Pinata, Bulma, Single-page application
 # vue.app
 npm install
 
