@@ -12,5 +12,9 @@ npm install
 
 npm run dev (for development server, prints out localhost address of the server)
 
+npm run build (deploy dist folder)
+
+(vue.js app was deployed to IPFS using Pinata to web3 domain, which we bought with crypto)
+
 # firebase cloud functions
 npm install
